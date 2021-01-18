@@ -1,0 +1,37 @@
+grading/GradedTest.java
+ grading.GradedTest
+homework03/mocks/TestServerImpl.java
+ homework03.mocks.TestServerImpl
+ homework03.mocks.TestServerImpl$BookFunction
+ homework03.mocks.TestServerImpl$GetBookingsFunction
+homework03/mocks/TestClientImpl.java
+ homework03.mocks.TestClientImpl
+ homework03.mocks.TestClientImpl$BookFunction
+ homework03.mocks.TestClientImpl$GetBookingsFunction
+homework03/mocks/TestDatabaseImpl.java
+ homework03.mocks.TestDatabaseImpl
+ homework03.mocks.TestDatabaseImpl$GetBookingsCountFunction
+ homework03.mocks.TestDatabaseImpl$GetFunction
+ homework03.mocks.TestDatabaseImpl$PutFunction
+grading/GradingSuite.java
+ grading.GradingSuite
+homework03/DatabaseImplTest.java
+ homework03.DatabaseImplTest
+grading/JUnitGradeExtension.java
+ grading.JUnitGradeExtension
+homework03/ClientImplTest.java
+ homework03.ClientImplTest
+grading/GradingTest.java
+ grading.GradingTest
+TheoryChecker.java
+ TheoryChecker
+grading/StringUtils.java
+ grading.StringUtils
+grading/GradedCategory.java
+ grading.GradedCategory
+homework03/utils/AssertUtils.java
+ homework03.utils.AssertUtils
+homework03/ServerImplTest.java
+ homework03.ServerImplTest
+homework03/CLIImplTest.java
+ homework03.CLIImplTest

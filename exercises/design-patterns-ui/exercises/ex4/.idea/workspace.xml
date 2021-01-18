@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0651689-059b-4607-a84b-a6ecfab3fec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ex1/src/main/java/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex3/src/main/java/ProxyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HTMLConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LatexConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PlainTextConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TextConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/XmlConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex6/src/main/java/LoanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreRemoteServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex8/src/main/java/view/GUIView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmitest/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmitest/src/main/java/CalculatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmitest/src/main/java/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rmitest/src/main/java/CalculatorServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex1/src/main/java/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex1/src/main/java/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/src/main/java/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/src/main/java/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex3/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex3/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BoldText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BoldText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DocumentPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DocumentPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HyperLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HyperLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PlainText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PlainText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreRemote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreRemoteImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex8/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex8/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex8/src/main/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex8/src/main/java/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex8/src/main/java/view/TextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex8/src/main/java/view/TextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/MultiThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/SingleThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/SingleThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/python-performance/exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/python-performance/exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/case-study.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/quiz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/scrum-board.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1mOPFd3c5DPuFdkKWalYZT7mL3w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="ex4.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0651689-059b-4607-a84b-a6ecfab3fec4" name="Default Changelist" comment="" />
+      <created>1609361561254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609361561254</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1609367846612">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="253" key="#com.intellij.ide.util.MemberChooser/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367846612" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom" timestamp="1609435671383">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367848100" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671383" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center" timestamp="1609435671380">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367848098" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671380" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left" timestamp="1609435671376">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367848098" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671376" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right" timestamp="1609435671382">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367848099" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671382" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom" timestamp="1609435671387">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367648387" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671387" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center" timestamp="1609435671384">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367648385" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671384" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left" timestamp="1609435671383">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367648385" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671383" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right" timestamp="1609435671386">
+      <screen x="43" y="23" width="1877" height="1057" />
+    </state>
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367648386" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right/43.23.1877.1057@43.23.1877.1057" timestamp="1609435671386" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1609367074205">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609367074205" />
+    <state x="696" y="313" key="refactoring.ChangeSignatureDialog" timestamp="1609364059403">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="696" y="313" key="refactoring.ChangeSignatureDialog/0.1080.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1609364059403" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/App.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/App.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

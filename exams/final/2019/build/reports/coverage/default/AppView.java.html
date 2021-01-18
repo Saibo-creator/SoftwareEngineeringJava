@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>AppView.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">2019</a> &gt; <a href="index.source.html" class="el_package">default</a> &gt; <span class="el_source">AppView.java</span></div><h1>AppView.java</h1><pre class="source lang-java linenums">// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// You CAN change the bodies of existing methods/constructors
+// You CAN add new private methods/constructors
+// You CANNOT add interface implementations unless explicitly instructed to do so
+// You CANNOT add new public, package-private or protected methods/constructors
+// You CANNOT edit the names, parameters, checked exceptions or return types of existing methods/constructors
+// You CANNOT delete existing methods/constructors
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+final class AppView {
+    /**
+     * View description, used to explain the view to users.
+     */
+    final String description;
+    /**
+     * View commands, from which the user must pick.
+     */
+    final List&lt;String&gt; commands;
+
+    /**
+     * Creates a new View.
+     *
+     * @throws IllegalArgumentException if and only if at least one of the following issues arises:
+     *                                  the description is null, or the commands are null, or the commands are empty.
+     */
+<span class="nc" id="L30">    AppView(String description, List&lt;String&gt; commands) {</span>
+<span class="nc bnc" id="L31" title="All 2 branches missed.">        if (description == null) {</span>
+<span class="nc" id="L32">            throw new IllegalArgumentException(&quot;Description cannot be null.&quot;);</span>
+        }
+<span class="nc bnc" id="L34" title="All 2 branches missed.">        if (commands == null) {</span>
+<span class="nc" id="L35">            throw new IllegalArgumentException(&quot;Commands cannot be null.&quot;);</span>
+        }
+<span class="nc bnc" id="L37" title="All 2 branches missed.">        if (commands.isEmpty()) {</span>
+<span class="nc" id="L38">            throw new IllegalArgumentException(&quot;Commands cannot be empty.&quot;);</span>
+        }
+
+<span class="nc" id="L41">        this.description = description;</span>
+<span class="nc" id="L42">        this.commands = Collections.unmodifiableList(new ArrayList&lt;&gt;(commands));</span>
+<span class="nc" id="L43">    }</span>
+
+    /**
+     * Returns a textual representation of this view.
+     * --
+     * The textual representation contains the description, then a line separator, then the text &quot;Available commands:&quot;, then a line separator.
+     * Then, for each command, one line containing a dash '-', a space, the command, and a line separator.
+     */
+    @Override
+    public String toString() {
+<span class="nc" id="L53">        StringBuilder sb = new StringBuilder();</span>
+<span class="nc" id="L54">        sb.append(description);</span>
+<span class="nc" id="L55">        sb.append(&quot;\n&quot;);</span>
+<span class="nc" id="L56">        sb.append(&quot;Available commands:&quot;);</span>
+<span class="nc" id="L57">        sb.append(&quot;\n&quot;);</span>
+<span class="nc bnc" id="L58" title="All 2 branches missed.">        for (int i = 0; i &lt;commands.size() ; i++) {</span>
+<span class="nc" id="L59">            sb.append(&quot;-&quot;);</span>
+<span class="nc" id="L60">            sb.append(&quot; &quot;);</span>
+<span class="nc" id="L61">            sb.append(commands.get(i));</span>
+<span class="nc" id="L62">            sb.append(&quot;\n&quot;);</span>
+        }
+
+<span class="nc" id="L65">        return sb.toString();</span>
+
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>

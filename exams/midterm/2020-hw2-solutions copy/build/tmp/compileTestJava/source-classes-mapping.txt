@@ -1,0 +1,38 @@
+grading/GradedTest.java
+ grading.GradedTest
+homework02/util/TestInventoryManager.java
+ homework02.util.TestInventoryManager
+homework02/util/TestInventoryLogger.java
+ homework02.util.TestInventoryLogger
+homework02/MovementTests.java
+ homework02.MovementTests
+homework02/DatabaseTests.java
+ homework02.DatabaseTests
+grading/JUnitGradeExtension.java
+ grading.JUnitGradeExtension
+grading/GradingSuite.java
+ grading.GradingSuite
+grading/GradingTest.java
+ grading.GradingTest
+TheoryChecker.java
+ TheoryChecker
+grading/StringUtils.java
+ grading.StringUtils
+grading/GradedCategory.java
+ grading.GradedCategory
+homework02/util/TestInventoryObserver.java
+ homework02.util.TestInventoryObserver
+homework02/util/TestInventorySupplier.java
+ homework02.util.TestInventorySupplier
+homework02/util/TestInventoryObserverBis.java
+ homework02.util.TestInventoryObserverBis
+homework02/InventoryManagerTest.java
+ homework02.InventoryManagerTest
+homework02/UserInterfaceSingletonTest.java
+ homework02.UserInterfaceSingletonTest
+homework02/InventorySupplierTest.java
+ homework02.InventorySupplierTest
+homework02/InventoryLoggerTest.java
+ homework02.InventoryLoggerTest
+homework02/UserInterfaceTest.java
+ homework02.UserInterfaceTest

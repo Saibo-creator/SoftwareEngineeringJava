@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93d83e8e-10ce-4fca-8111-442fe85784be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/IllegalOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Leaderboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/LimitedUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Moderator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/NoSuchPostException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/main/java/ch/epfl/sweng/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/ForumTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/TheoryReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Q1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Q2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Q3Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/GradedCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/GradedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/JUnitGradeSheetListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/JUnitGradeSheetTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/models/GradingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/models/GradingSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/models/GradingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/LeaderboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/LimitedUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/test/java/sweng/LeaderboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw2-solutions copy/src/main/java/homework02/InventoryDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw2-solutions copy/src/main/java/homework02/InventoryLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw2-solutions copy/src/main/java/homework02/InventoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw2-solutions copy/src/main/java/homework02/InventorySupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw2-solutions copy/src/main/java/homework02/ItemKind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw2-solutions copy/src/main/java/homework02/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw2-solutions copy/src/main/java/homework02/UserInterfaceSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex3/src/main/java/NewFacebookPosterToFacebookPosterAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex4/src/main/java/ShapeComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/src/main/java/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/src/main/java/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/src/main/java/SteamedMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/src/main/java/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/src/main/java/models/ForumPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/src/main/java/models/ForumState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/src/main/java/models/ForumThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/src/main/java/views/ForumView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/src/main/java/views/ThreadView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex9/project/src/main/java/views/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Leaderboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Leaderboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/LimitedUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/LimitedUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Moderator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Moderator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2019/THEORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2019/THEORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2019/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2019/src/test/java/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2019/src/test_me/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2019/src/test/java/AppViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2019/src/test_me/java/AppViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2019/src/test/java/CachingDirectoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2019/src/test_me/java/CachingDirectoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2019/src/test/java/OverridableDirectoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2019/src/test_me/java/OverridableDirectoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/final/2019/src/test/java/TheoryChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/final/2019/src/test_me/java/TheoryChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/midterm/2019/THEORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/midterm/2019/THEORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/midterm/2020-hw3-solutions/src/main/java/homework03/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw3-solutions/src/main/java/homework03/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exams/midterm/2020-hw3-solutions/src/main/java/homework03/DatabaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exams/midterm/2020-hw3-solutions/src/main/java/homework03/DatabaseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex3/src/main/java/NewFacebookPoster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex3/src/main/java/NewFacebookPoster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex3/src/test/java/PosterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex3/src/test/java/PosterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex4/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex4/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex4/src/main/java/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex4/src/main/java/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/src/test/java/CafeShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex5/src/test/java/CafeShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex6/src/main/java/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../design-patterns-recap/practice/ex6/src/main/java/MyLinkedList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1nF0ZOEFrW25bvjasRRefsTRPU4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93d83e8e-10ce-4fca-8111-442fe85784be" name="Default Changelist" comment="" />
+      <created>1610970585350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610970585350</updated>
+    </task>
+    <servers />
+  </component>
+</project>

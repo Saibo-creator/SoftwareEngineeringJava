@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a02edea-fe3f-47cb-bef4-9d19745ace08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-threaded-server/src/main/java/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multi-threaded-server/src/main/java/MultiThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../multi-threaded-server/src/main/java/SingleThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../multi-threaded-server/src/main/java/SingleThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../python-performance/exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../python-performance/exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/case-study.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/quiz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/scrum-board.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1mIr4s5VLpF5lpcbQO0VHh3IdJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MultiThreadedServer">
+    <configuration name="MultiThreadedServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreadedServer" />
+      <module name="multi-threaded-server.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleThreadedServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingleThreadedServer" />
+      <module name="multi-threaded-server.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SingleThreadedServer" />
+        <item itemvalue="Application.MultiThreadedServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a02edea-fe3f-47cb-bef4-9d19745ace08" name="Default Changelist" comment="" />
+      <created>1609191757116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609191757116</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1609192014419">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609192014419" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1609192014419">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609192014419" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1609192014418">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609192014418" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1609192014419">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609192014419" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1609191813973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1609191813973" />
+  </component>
+</project>

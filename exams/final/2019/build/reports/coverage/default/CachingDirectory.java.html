@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>CachingDirectory.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">2019</a> &gt; <a href="index.source.html" class="el_package">default</a> &gt; <span class="el_source">CachingDirectory.java</span></div><h1>CachingDirectory.java</h1><pre class="source lang-java linenums">// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// You CAN change the bodies of existing methods/constructors
+// You CAN add new private methods/constructors
+// You CANNOT add interface implementations unless explicitly instructed to do so
+// You CANNOT add new public, package-private or protected methods/constructors
+// You CANNOT edit the names, parameters, checked exceptions or return types of existing methods/constructors
+// You CANNOT delete existing methods/constructors
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+/**
+ * Directory with caching; searches are passed through the wrapped Directory,
+ * and the CachingDirectory remembers the results such that it returns
+ * these same results on subsequent searches of the same name,
+ * without calling the underlying directory again.
+ * --
+ * Name comparisons for the purpose of caching are case-insensitive, and ignore leading and trailing spaces.
+ */
+final class CachingDirectory implements Directory {
+
+    private Directory wrapped;
+    private Map&lt;String,List&lt;Person&gt;&gt; cache;
+
+    /**
+     * Creates a new CachingDirectory wrapping the given Directory.
+     *
+     * @throws IllegalArgumentException if and only if the wrapped directory is null.
+     */
+<span class="nc" id="L32">    CachingDirectory(Directory wrapped) {</span>
+<span class="nc bnc" id="L33" title="All 2 branches missed.">        if (wrapped==null) throw new IllegalArgumentException(&quot;wrapped directory is null&quot;);</span>
+<span class="nc" id="L34">        this.wrapped=wrapped;</span>
+<span class="nc" id="L35">        this.cache = new HashMap&lt;&gt;();</span>
+<span class="nc" id="L36">    }</span>
+
+    @Override
+    public List&lt;Person&gt; search(String name) {
+<span class="nc" id="L40">        String nor_name= normlize(name);</span>
+<span class="nc bnc" id="L41" title="All 2 branches missed.">        if (cache.containsKey(nor_name)){</span>
+<span class="nc" id="L42">            return cache.get(nor_name);</span>
+        }
+
+<span class="nc" id="L45">        List&lt;Person&gt; res = wrapped.search(nor_name);</span>
+
+<span class="nc" id="L47">        cache.put(nor_name,res);</span>
+
+<span class="nc" id="L49">        return res;</span>
+
+    }
+
+
+
+    private String normlize(String name){
+<span class="nc" id="L56">        return name.toLowerCase().strip();</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>

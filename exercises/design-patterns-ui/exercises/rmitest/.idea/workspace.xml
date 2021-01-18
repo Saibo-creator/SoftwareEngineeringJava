@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="78b68896-86f6-45b7-a7b7-ba5e2e712cc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ex1/src/main/java/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex3/src/main/java/ProxyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex4/src/main/java/HTMLConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex4/src/main/java/LatexConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex4/src/main/java/PlainTextConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex4/src/main/java/TextConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex4/src/main/java/XmlConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex6/src/main/java/LoanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreRemoteServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex1/src/main/java/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex1/src/main/java/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex2/src/main/java/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex2/src/main/java/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex3/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex3/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex4/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex4/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex4/src/main/java/BoldText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex4/src/main/java/BoldText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex4/src/main/java/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex4/src/main/java/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex4/src/main/java/DocumentPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex4/src/main/java/DocumentPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex4/src/main/java/HyperLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex4/src/main/java/HyperLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex4/src/main/java/PlainText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex4/src/main/java/PlainText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreRemote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ex7/src/main/java/KeyValueStoreRemoteImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/MultiThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/SingleThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/SingleThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/python-performance/exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/python-performance/exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/case-study.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/quiz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/scrum-board.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1mbaLIl3jNJ8RrqlnxmMi9oW3c5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78b68896-86f6-45b7-a7b7-ba5e2e712cc9" name="Default Changelist" comment="" />
+      <created>1609764686790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609764686790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

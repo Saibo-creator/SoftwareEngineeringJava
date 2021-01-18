@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6760c545-07a4-4724-b5b2-e5db743d811b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex1/src/main/java/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex3/src/main/java/ProxyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/HTMLConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/LatexConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/PlainTextConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/TextConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/XmlConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex6/src/main/java/LoanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex7/src/main/java/KeyValueStoreRemoteServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/ex8/src/main/java/view/GUIView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/rmitest/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/rmitest/src/main/java/CalculatorClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/rmitest/src/main/java/CalculatorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../exercises/rmitest/src/main/java/CalculatorServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../exams/final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex1/src/main/java/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex1/src/main/java/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex2/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex2/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex2/src/main/java/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex2/src/main/java/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex3/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex3/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/BoldText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/BoldText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/DocumentPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/DocumentPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/HyperLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/HyperLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/PlainText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex4/src/main/java/PlainText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex7/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex7/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex7/src/main/java/KeyValueStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex7/src/main/java/KeyValueStoreRemote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex7/src/main/java/KeyValueStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex7/src/main/java/KeyValueStoreRemoteImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex8/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex8/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex8/src/main/java/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex8/src/main/java/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exercises/ex8/src/main/java/view/TextView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../exercises/ex8/src/main/java/view/TextView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/MultiThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/MultiThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/SingleThreadedServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/multi-threaded-server/src/main/java/SingleThreadedServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../performance/python-performance/exercise.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../performance/python-performance/exercise.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/case-study.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/quiz.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../scrum/solutions/scrum-board.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1mbvifbdht0yUViYJxnqNg9D2sI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6760c545-07a4-4724-b5b2-e5db743d811b" name="Default Changelist" comment="" />
+      <created>1609775233190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609775233190</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Person.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">2019</a> &gt; <a href="index.source.html" class="el_package">default</a> &gt; <span class="el_source">Person.java</span></div><h1>Person.java</h1><pre class="source lang-java linenums">// !!!!!!!!!!!!!!!!!!!!!!
+// DO NOT TOUCH THIS FILE
+// !!!!!!!!!!!!!!!!!!!!!!
+
+import java.util.Objects;
+
+/**
+ * Model of a Person, with some basic attributes.
+ */
+final class Person {
+    /**
+     * Name of the person; never null nor empty.
+     */
+    final String name;
+    /**
+     * Title of the person; may be null but not empty.
+     */
+    final String title;
+    /**
+     * Age of the person, in years; may be null (meaning the age is unknown) but not less than zero.
+     */
+    final Integer age;
+    /**
+     * Address of the person, may be null but not empty.
+     */
+    final String address;
+
+    /**
+     * Creates a new Person given attributes, ignoring leading and trailing spaces in text.
+     */
+<span class="fc" id="L31">    Person(String name, String title, Integer age, String address) {</span>
+<span class="pc bpc" id="L32" title="1 of 2 branches missed.">        if (name == null) {</span>
+<span class="nc" id="L33">            throw new IllegalArgumentException(&quot;Name cannot be null.&quot;);</span>
+        }
+<span class="pc bpc" id="L35" title="2 of 4 branches missed.">        if (age != null &amp;&amp; age &lt; 0) {</span>
+<span class="nc" id="L36">            throw new IllegalArgumentException(&quot;Age cannot be less than zero.&quot;);</span>
+        }
+
+<span class="fc" id="L39">        this.name = ensureNotEmpty(name, &quot;Name&quot;);</span>
+<span class="fc" id="L40">        this.title = ensureNotEmpty(title, &quot;Title&quot;);</span>
+<span class="fc" id="L41">        this.age = age;</span>
+<span class="fc" id="L42">        this.address = ensureNotEmpty(address, &quot;Address&quot;);</span>
+<span class="fc" id="L43">    }</span>
+
+    /**
+     * Helper method: returns the value if it is null, the trimmed value if it's non-null and non-empty, or throws.
+     */
+    private static String ensureNotEmpty(String value, String description) {
+<span class="pc bpc" id="L49" title="1 of 2 branches missed.">        if (value == null) {</span>
+<span class="nc" id="L50">            return null;</span>
+        }
+<span class="fc" id="L52">        value = value.trim();</span>
+<span class="pc bpc" id="L53" title="1 of 2 branches missed.">        if (value.isEmpty()) {</span>
+<span class="nc" id="L54">            throw new IllegalArgumentException(description + &quot; cannot be empty or contain only spaces.&quot;);</span>
+        }
+<span class="fc" id="L56">        return value;</span>
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+<span class="pc bpc" id="L61" title="1 of 2 branches missed.">        if (!(obj instanceof Person)) {</span>
+<span class="nc" id="L62">            return false;</span>
+        }
+<span class="fc" id="L64">        Person other = (Person) obj;</span>
+<span class="pc bpc" id="L65" title="1 of 2 branches missed.">        return name.equals(other.name)</span>
+<span class="pc bpc" id="L66" title="1 of 2 branches missed.">                &amp;&amp; Objects.equals(title, other.title)</span>
+<span class="pc bpc" id="L67" title="1 of 2 branches missed.">                &amp;&amp; Objects.equals(age, other.age)</span>
+<span class="pc bpc" id="L68" title="1 of 2 branches missed.">                &amp;&amp; Objects.equals(address, other.address);</span>
+    }
+
+    @Override
+    public int hashCode() {
+<span class="nc" id="L73">        return Objects.hash(name, title, age, address);</span>
+    }
+
+    @Override
+    public String toString() {
+<span class="nc" id="L78">        return name + &quot;, &quot; + title + &quot;, &quot; + age + &quot;, &quot; + address;</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>AppController.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">2019</a> &gt; <a href="index.source.html" class="el_package">default</a> &gt; <span class="el_source">AppController.java</span></div><h1>AppController.java</h1><pre class="source lang-java linenums">// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// You CAN change the bodies of existing methods/constructors
+// You CAN add new private methods/constructors
+// You CANNOT add interface implementations unless explicitly instructed to do so
+// You CANNOT add new public, package-private or protected methods/constructors
+// You CANNOT edit the names, parameters, checked exceptions or return types of existing methods/constructors
+// You CANNOT delete existing methods/constructors
+// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+final class AppController {
+    private final Directory directory;
+
+    /**
+     * Creates a new controller that uses the given directory.
+     *
+     * @throws IllegalArgumentException if and only if the directory is null.
+     */
+<span class="nc" id="L18">    AppController(Directory directory) {</span>
+<span class="nc bnc" id="L19" title="All 2 branches missed.">        if (directory == null) {</span>
+<span class="nc" id="L20">            throw new IllegalArgumentException(&quot;Directory cannot be null.&quot;);</span>
+        }
+
+<span class="nc" id="L23">        this.directory = directory;</span>
+<span class="nc" id="L24">    }</span>
+
+    /**
+     * Handles the given user input, returning the corresponding view.
+     * Ignores leading and trailing spaces in the input.
+     * If the input is invalid, returns null.
+     * --
+     * The input can either be empty, which leads to the main view, or non-empty, in which case it must be a command followed by text.
+     * The command and the text are separated by one or more spaces; the text itself can contain spaces.
+     * If the text is empty even though the input is non-empty, the input is invalid.
+     * If the command is unknown, the input is invalid.
+     *
+     * @throws IllegalArgumentException if and only if the input is null.
+     */
+    AppView handle(String input) {
+        // TODO
+<span class="nc" id="L40">        throw new UnsupportedOperationException();</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.4.201905082037</span></div></body></html>

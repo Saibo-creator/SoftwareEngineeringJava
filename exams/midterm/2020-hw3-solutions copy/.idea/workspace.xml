@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5403433-0a9f-4e92-b157-2f3300936c88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/IllegalOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Leaderboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/LimitedUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Moderator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/NoSuchPostException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/main/java/ch/epfl/sweng/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/ForumTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/TheoryReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Q1Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Q2Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Q3Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/graded/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/GradedCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/GradedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/JUnitGradeSheetListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/JUnitGradeSheetTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/models/GradingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/models/GradingSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/models/GradingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018-solutions copy/src/test/java/ch/epfl/sweng/tests/grading/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/UserComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018/src/test/java/ch/epfl/sweng/tests/LeaderboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018/src/test/java/ch/epfl/sweng/tests/LimitedUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../final/2018/src/test/java/sweng/LeaderboardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-hw2-solutions copy/src/main/java/homework02/InventoryDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-hw2-solutions copy/src/main/java/homework02/InventoryLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-hw2-solutions copy/src/main/java/homework02/InventoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-hw2-solutions copy/src/main/java/homework02/InventorySupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-hw2-solutions copy/src/main/java/homework02/ItemKind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-hw2-solutions copy/src/main/java/homework02/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020-hw2-solutions copy/src/main/java/homework02/UserInterfaceSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/src/main/java/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/src/main/java/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/src/main/java/SteamedMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/src/main/java/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Forum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Forum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Leaderboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Leaderboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/LimitedUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/LimitedUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Moderator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Moderator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/main/java/ch/epfl/sweng/StandardUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/test/java/ch/epfl/sweng/tests/ForumTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2018/src/test/java/ch/epfl/sweng/tests/StandardUserTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2019/THEORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2019/THEORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2019/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2019/src/test/java/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2019/src/test_me/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2019/src/test/java/AppViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2019/src/test_me/java/AppViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2019/src/test/java/CachingDirectoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2019/src/test_me/java/CachingDirectoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2019/src/test/java/OverridableDirectoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2019/src/test_me/java/OverridableDirectoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../final/2019/src/test/java/TheoryChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../final/2019/src/test_me/java/TheoryChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019/THEORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../2019/THEORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020-hw3-solutions/src/main/java/homework03/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2020-hw3-solutions/src/main/java/homework03/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020-hw3-solutions/src/main/java/homework03/DatabaseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2020-hw3-solutions/src/main/java/homework03/DatabaseImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/src/test/java/CafeShopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex5/src/test/java/CafeShopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex6/src/main/java/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../exercises/design-patterns-recap/practice/ex6/src/main/java/MyLinkedList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1mhHiMKIdCnznqSZ6tbdHzsgOcp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.CLIImplTest">
+    <configuration name="CLIImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;homework03.CLIImplTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ClientImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;homework03.ClientImplTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DatabaseImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;homework03.DatabaseImplTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerImplTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;homework03.ServerImplTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ServerImplTest.test06_bookThrowsOnOverbooking" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;homework03.ServerImplTest.test06_bookThrowsOnOverbooking&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CLIImplTest" />
+        <item itemvalue="Gradle.ServerImplTest" />
+        <item itemvalue="Gradle.ClientImplTest" />
+        <item itemvalue="Gradle.ServerImplTest.test06_bookThrowsOnOverbooking" />
+        <item itemvalue="Gradle.DatabaseImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5403433-0a9f-4e92-b157-2f3300936c88" name="Default Changelist" comment="" />
+      <created>1609939028747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609939028747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1610912237750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610912237750" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1610912237748">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610912237748" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1610912237747">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610912237747" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1610912237750">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610912237750" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1610912237754">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610912237754" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1610912237752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1610912237752" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1610912237752">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1610912237752" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1610912237753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1610912237753" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1610899773215">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1610899773215" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/homework03/ServerImplTest.java</url>
+          <line>77</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
